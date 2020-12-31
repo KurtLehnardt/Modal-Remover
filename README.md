@@ -13,3 +13,4 @@ Please suggest any other sites you'd like to be fixed.
 - find 'Fix It' and pin it to your extension bar
 - navigate to a site
 - if a popup displays, click Fix It extension button (x)
+"# imgurAdBlocker" 
